@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 ### Olá eu sou o David Leonardo 👋
 
-[! [LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ](www.linkedin.com/in/david-leonardo-b25670250)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/david-leonardo-b25670250)
 
 ## Tecnologias que uso no meu dia a dia
