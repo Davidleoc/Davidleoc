@@ -6,13 +6,7 @@ Me chamo David Leonardo, tenho 20 anos,sou de São Paulo . Concluí o curso de A
 
 <p align="left">
     
- <a href="https://github.com/Davidleoc?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Davidleoc?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+
 </p>
 
 ---
