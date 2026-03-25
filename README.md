@@ -2,7 +2,7 @@
 
 **`Analista \ Desenvolvedor de Sistemas`**
 
-Me chamo David Leonardo, tenho 20 anos,sou de São Paulo . Concluí o curso de Analise e Desenvolvimentos de Sistemas no 2° semestre de 2024, na unip. Atualmente trabalho como Administrador de servidores Limux e Banco de Dados. Amo tecnologias e sempre estou querendo aprender mais sobre.
+Me chamo David Leonardo, sou de São Paulo . Concluí o curso de Analise e Desenvolvimentos de Sistemas no 2° semestre de 2024, na unip. Atualmente trabalho como Administrador de servidores Limux e Banco de Dados. Amo tecnologias e sempre estou querendo aprender mais sobre.
 
 <p align="left">
     
