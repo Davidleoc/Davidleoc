@@ -64,11 +64,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/
 
 <img
   align="left" 
-    alt="Canva" 
-    title="Canva"
+    alt="Docker" 
+    title="Docker"
     width="30px" 
     style="padding-right: 10px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
           
 <img
   align="left" 
