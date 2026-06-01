@@ -77,14 +77,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/
     width="30px" 
     style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original-wordmark.svg" />
-          
-<img
-  align="left" 
-    alt=".net" 
-    title=".net"
-    width="30px" 
-    style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original-wordmark.svg" />
 
   <img
   align="left" 
@@ -93,6 +85,23 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/
     width="30px" 
     style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original-wordmark.svg" />
+
+  <img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+          
+<img
+  align="left" 
+    alt=".net" 
+    title=".net"
+    width="30px" 
+    style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original-wordmark.svg" />
                                              
           
 <img 
@@ -118,15 +127,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
 
