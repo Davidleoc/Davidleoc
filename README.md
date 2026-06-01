@@ -72,11 +72,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/
 
   <img
   align="left" 
-    alt="Dart" 
-    title="Dart"
+    alt="Ansible" 
+    title="Ansible"
     width="30px" 
     style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-plain-wordmark.svg" />
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original-wordmark.svg" />
                                              
           
 <img 
