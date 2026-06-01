@@ -1,6 +1,6 @@
 # 👨🏽‍💻 David Leonardo
 
-**`Analista \ Desenvolvedor de Sistemas`**
+**`Administrador de Servidores Linux | DevOps | SRE`**
 
 Me chamo David Leonardo, sou de São Paulo . Concluí o curso de Analise e Desenvolvimentos de Sistemas no 2° semestre de 2024, na unip. Atualmente trabalho como Administrador de servidores Limux e Banco de Dados | DevOps. Amo tecnologias e sempre estou querendo aprender mais sobre.
 
