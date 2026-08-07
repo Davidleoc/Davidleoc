@@ -54,6 +54,15 @@ Me chamo David Leonardo, sou de São Paulo. Concluí o curso de Analise e Desenv
     width="30px" 
     style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original-wordmark.svg" />
+
+<img
+  align="left"
+  alt="Python"
+  title="Python"
+  width="30px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
+  
  <img
   align="left" 
     alt="Java" 
